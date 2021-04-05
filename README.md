@@ -1,2 +1,2 @@
 # Smartcard-Demo
-Repository for Smartcard Auhentication Project
+Repository for Smartcard Authentication Project
